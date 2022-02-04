@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sneha Verma</h1>
-<h3 align="center">I am a Information technology sophomore persuing B.Tech from Techno Main SaltLake.My intereset lies in Programming and web development.But I want to explore many other technologies.</h3>
+<h1 align="center">Hi there👋, I'm Sneha Verma</h1>
+<h3 align="center">I am a Information technology sophomore persuing B.Tech from Techno Main SaltLake.My intereset lies in Programming and web development.But I also want to explore many other technologies.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
